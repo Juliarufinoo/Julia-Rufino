@@ -5,6 +5,9 @@ Badges:
 
 GCP:
 
+<img width="1438" alt="Captura de Tela 2024-12-10 às 10 51 25" src="https://github.com/user-attachments/assets/8b8dd4ef-036b-470a-8bea-5fefc6f348b8">
+
+
 <img width="782" alt="Captura de Tela 2024-12-10 às 10 46 02" src="https://github.com/user-attachments/assets/c8e9b712-3232-441c-881e-cee7786d40f9">
 
 ![PnBhgSK5s4ijylsEXG5htONBhVI+oX0uiT5khKk9Md8= (1)](https://github.com/user-attachments/assets/b4049778-def6-4a4b-a0c7-a5d19a8065df)
